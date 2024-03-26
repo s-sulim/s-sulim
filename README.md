@@ -1,3 +1,3 @@
-- 👋 Hi, my name is Svetozar Sulim
+- 👋 Hi, my name is Svitozar Sulim
 - 👀 I’m interested in C# and ASP .NET development
 - 🌱 I’m currently learning C# on deep level

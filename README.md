@@ -1,3 +1,8 @@
-- 👋 Hi, my name is Svitozar Sulim
-- 👀 I’m interested in C# and ASP .NET development
-- 🌱 I’m currently learning C# on deep level
+# Welcome!
+
+### 👋 My name is Svitozar Sulim and I'm interested in:
+
+- 🕸️ Web developement
+- 🤖 ML & AI theory and applications
+- 🗣️ Linguistics
+- 🌱 Creating real-world useful software

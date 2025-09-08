@@ -1,8 +1,5 @@
-# Welcome!
+# 👋 My name is Svitozar and I'm an enthusiastic React developer
 
-### 👋 My name is Svitozar Sulim and I'm interested in:
-
-- 🕸️ Web developement
-- 🤖 ML & AI theory and applications
-- 🗣️ Linguistics
-- 🌱 Creating real-world useful software
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-sulim&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-sulim&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-sulim&theme=dark)
